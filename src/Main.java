@@ -19,7 +19,6 @@ public class Main {
         Book yearBook = new Book("Война и мир", "Л.Н.Толстой", 1867);
         System.out.println("yearBook = " + yearBook.getPublishingYear());
 
-
         Author fedor = new Author("Фёдор", "Достоевский");
         System.out.println("fedor = " + fedor.getAuthorName());
         Author dostoevsky = new Author("Фёдор", "Достоевский");
